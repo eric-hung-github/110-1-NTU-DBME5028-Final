@@ -1,11 +1,5 @@
 # 110-1-NTU-DBME5028-Final
 
-FILE PATH  
-root/  
-  
-  >train.py  
-  >test.py   
-
 datapath/
   >train/  
   >test/  
