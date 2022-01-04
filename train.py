@@ -13,7 +13,7 @@ from tqdm import tqdm
 import PIL
 
 
-datapath = '..'
+datapath = '.'
 argvs = sys.argv[1:]
 try:
     opts, args = getopt.getopt(argvs, "", ["data="])
