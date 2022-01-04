@@ -12,7 +12,7 @@ from torch.utils.data import Dataset, DataLoader
 
 from byol import BYOL
 
-datapath = '..'
+datapath = '.'
 argvs = sys.argv[1:]
 try:
     opts, args = getopt.getopt(argvs, "", ["data="])
