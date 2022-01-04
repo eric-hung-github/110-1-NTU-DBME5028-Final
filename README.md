@@ -1,6 +1,6 @@
 # 110-1-NTU-DBME5028-Final
 
-download.sh will download the model_state.pth.tar
+require download.sh to download the model_state.pth.tar
 
 datapath/
   >train/  
