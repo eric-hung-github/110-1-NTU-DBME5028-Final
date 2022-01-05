@@ -24,9 +24,9 @@ datapath/
 4. requirement file : byol.py [1]
 
 
-# Reference 
+## Reference 
 [[1]lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch)
 
 
-# TO DO
-[SimTriplet](https://arxiv.org/pdf/2103.05585.pdf)
+## TO DO
+[1. SimTriplet](https://arxiv.org/pdf/2103.05585.pdf)
