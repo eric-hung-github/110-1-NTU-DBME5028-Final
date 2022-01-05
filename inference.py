@@ -83,8 +83,7 @@ model = BYOL(
     hidden_layer='avgpool'
 )
 
-model.load_state_dict(torch.load(
-    datapath+'/model_state.pth.tar')['state_dict'])
+model.load_state_dict(torch.load('./model_state.pth.tar')['state_dict'])
 
 model.to(device)
 
