@@ -25,7 +25,7 @@ datapath/
 
 
 ## Reference 
-[[1]lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch)
+[[1] lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch)
 
 
 ## TO DO
