@@ -7,7 +7,9 @@ datapath/
   >test/  
   >queries.csv  
   >model_state.pth.tar  
-  >train_whole_slide/  
+  >train_whole_slide/ 
+
+1. google colab file 
 
 
 
